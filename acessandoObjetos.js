@@ -14,5 +14,5 @@ console.log("A idade é: " +pessoa["idade"]);
 
 const variavel = "nome";
 console.log(`a ${variavel} é: ${pessoa[variavel]}`);
-// acessa a variável de forma dinâmica
+// [] - acessa a variável de forma dinâmica
 
